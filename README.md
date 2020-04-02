@@ -4,7 +4,7 @@ Use this Python script to automate the backup procedure for you.
 
 Tested using Python v3.7 and on Virtualmin v6.08 works well.
 
-Note: *pip3 install selenium* before you run this script.
+Note: *pip3 install selenium* before you run this script and make sure chromedriver are installed on your system too.
 
 <hr />
 
